@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my additional docs
+data
+tests
+
+# also exclude .idea in case scripts will start not on pycharm
+.idea
